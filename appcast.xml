@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Thanos Browser</title>
+        <link>https://github.com/marcosvasili-coder/Thanos-Browser</link>
+        <description>Release history</description>
+        <language>en</language>
+        <!-- Run scripts/sparkle/publish_release.sh after each signed build to append items here. -->
+        <item>
+            <title>0.1.2</title>
+            <pubDate>Sun, 12 Apr 2026 16:30:11 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser/releases/download/v0.1.2/Thanos%20Browser%200.1.2.zip" length="4017380" type="application/octet-stream" sparkle:edSignature="cx7qRLK2pLSRgGxcopj0RUJPPfXxQpnCo+d6SFAqzrZCAxNdvdDWQ3hxSU7sGaX7wpG3gS8Qua6kjyQNI3TRDQ=="/>
+        </item>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Sat, 11 Apr 2026 10:57:19 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser/releases/download/v0.1.1/Thanos%20Browser%200.1.1.zip" length="3947351" type="application/octet-stream" sparkle:edSignature="XDfIhUbV54UARrm/PD79T/+KmuEJKDqgsmf25W1FuN5Nos9KjiR/XX8i/jbsKgWtM9zi6C2D9hbVIL2fVgi6Bg=="/>
+        </item>
+    </channel>
+</rss>
