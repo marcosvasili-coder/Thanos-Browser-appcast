@@ -7,6 +7,14 @@
         <language>en</language>
         <!-- Run scripts/sparkle/publish_release.sh after each signed build to append items here. -->
         <item>
+            <title>0.1.16</title>
+            <pubDate>Sun, 13 Apr 2026 00:20:00 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v0.1.16/Thanos.Browser.0.1.16.zip" length="4656990" type="application/octet-stream" sparkle:edSignature="D/AD8vDPmv9rCgDNyCgGgK6mLW7BZ2/CPvzw7PaHiN0VJA5pSlCYcd96Rp5X7PD7jxErfCFSC8drOXs8IbzlCg=="/>
+        </item>
+        <item>
             <title>0.1.15</title>
             <pubDate>Sun, 12 Apr 2026 23:05:00 +0000</pubDate>
             <sparkle:version>16</sparkle:version>
