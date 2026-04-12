@@ -12,7 +12,7 @@
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v0.1.5/Thanos%20Browser%200.1.5.zip" length="4050932" type="application/octet-stream" sparkle:edSignature="MVxo5euMzrS7/77+Vkbx7oJmPfxk3iU0FNNRRBlHMRDF1Ke6x7rnUtkIf0jSyVU+aNzpHcbAfrKIOPmJ/O9GBQ=="/>
+            <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v0.1.5/Thanos.Browser.0.1.5.zip" length="4050932" type="application/octet-stream" sparkle:edSignature="MVxo5euMzrS7/77+Vkbx7oJmPfxk3iU0FNNRRBlHMRDF1Ke6x7rnUtkIf0jSyVU+aNzpHcbAfrKIOPmJ/O9GBQ=="/>
         </item>
         <item>
             <title>0.1.4</title>
