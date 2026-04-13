@@ -7,6 +7,14 @@
         <language>en</language>
         <!-- Run scripts/sparkle/publish_release.sh after each signed build to append items here. -->
         <item>
+            <title>0.1.26</title>
+            <pubDate>Mon, 13 Apr 2026 07:20:46 +0000</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.1.26</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v0.1.26/Thanos.Browser.0.1.26.zip" length="4323442" type="application/octet-stream" sparkle:edSignature="YHZuPESqYRGm27tz7CeNANF3+x93Po7scxyBhUCkpRjj9idXFOBqPUjbrrw/Ep6gzz7fn40+riOWce3aL0V3AA=="/>
+        </item>
+        <item>
             <title>0.1.25</title>
             <pubDate>Mon, 13 Apr 2026 07:10:20 +0000</pubDate>
             <sparkle:version>27</sparkle:version>
@@ -21,14 +29,6 @@
             <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v0.1.25/Thanos.Browser.0.1.25.zip" length="4309871" type="application/octet-stream" sparkle:edSignature="FPJTRRPKw+l/G5/ItRrsHwv5rHrhKslHtUB/MlVhDJ0YoS9uzR8D7cpWhklOU4Hz+ARUXSFsZ/B6gO7a9u5sAQ=="/>
-        </item>
-        <item>
-            <title>0.1.24</title>
-            <pubDate>Mon, 13 Apr 2026 06:55:34 +0000</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v0.1.24/Thanos.Browser.0.1.24.zip" length="4236723" type="application/octet-stream" sparkle:edSignature="tNBe7SmSAnUI07hPVQVT9r9syUXHDPeoIcfbdFzKRgfxMnxQ1TS0AqBehwwTsVOe+qWMW2Zcz36r2ArbTvGeBw=="/>
         </item>
     </channel>
 </rss>
