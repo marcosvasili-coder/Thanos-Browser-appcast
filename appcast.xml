@@ -7,6 +7,14 @@
         <language>en</language>
         <!-- Run scripts/sparkle/publish_release.sh after each signed build to append items here. -->
         <item>
+            <title>0.1.39</title>
+            <pubDate>Thu, 16 Apr 2026 15:03:58 +0000</pubDate>
+            <sparkle:version>58</sparkle:version>
+            <sparkle:shortVersionString>0.1.39</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v0.1.39/Thanos.Browser.0.1.39.zip" length="4798223" type="application/octet-stream" sparkle:edSignature="TsU8jWDXvpN35KbgyQJN3s3TclL/w5HOlgqF0wD/2iNnNrOjHBYwS7maLeL4seeLq6iq3ti2NFdBA03ifg7kBA=="/>
+        </item>
+        <item>
             <title>0.1.38</title>
             <pubDate>Thu, 16 Apr 2026 14:48:49 +0000</pubDate>
             <sparkle:version>57</sparkle:version>
@@ -21,17 +29,6 @@
             <sparkle:shortVersionString>0.1.36</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v0.1.36/Thanos.Browser.0.1.36.zip" length="4726555" type="application/octet-stream" sparkle:edSignature="o6H6AAlYD2WG3BDBLmtHaUmdLLW16KoWwrgAj90fe0YpYZ6FFwpP/aPfYj9Foo4cZs08zZqgE15XCxP4YRY5Dg=="/>
-        </item>
-        <item>
-            <title>0.1.28</title>
-            <pubDate>Mon, 13 Apr 2026 10:35:26 +0000</pubDate>
-            <sparkle:version>31</sparkle:version>
-            <sparkle:shortVersionString>0.1.28</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v0.1.28/Thanos.Browser.SafariStyle.0.1.28.zip" length="4133510" type="application/octet-stream" sparkle:edSignature="/05iSxbZHSJeYtcRxC3FcyiJj++2TDT9iEVgom4ZXFBydISrmDa9jls/ThiQwX3RtErJQ7sTwmCJJIEgk0pzAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v0.1.28/ThanosBrowserSafariStyle31-30.delta" sparkle:deltaFrom="30" length="569506" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hZWNqK2E5ygn15bkNVk1B20OP/ds0bHWrIGRQO5zRkJax8T1HEGmrF91YYyd1zRRtG0LA8AQ5eYYASJh7y+RDg=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>
