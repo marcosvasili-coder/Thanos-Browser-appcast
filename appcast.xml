@@ -7,6 +7,14 @@
         <language>en</language>
         <!-- Run scripts/sparkle/publish_release.sh after each signed build to append items here. -->
         <item>
+            <title>0.1.49</title>
+            <pubDate>Mon, 20 Apr 2026 10:57:50 +0000</pubDate>
+            <sparkle:version>70</sparkle:version>
+            <sparkle:shortVersionString>0.1.49</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v0.1.49/Thanos.Browser.0.1.49.zip" length="5028295" type="application/octet-stream" sparkle:edSignature="lGUJ4sDrDPGhjwKXDo2g8dHroaBadUxOyzKSUgKXT+l/cxUzSF5na98aHbPt4klGuO0UMAy6BnirPcflawNxDg=="/>
+        </item>
+        <item>
             <title>0.1.48</title>
             <pubDate>Mon, 20 Apr 2026 10:00:30 +0000</pubDate>
             <sparkle:version>69</sparkle:version>
@@ -21,14 +29,6 @@
             <sparkle:shortVersionString>0.1.48</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v0.1.48/Thanos.Browser.0.1.48.zip" length="5031361" type="application/octet-stream" sparkle:edSignature="068R34U4IS1+e1IV0LxmIKZSSqD6/gQrrAAC5CAswwuRMzrrDksffqg/YP4C7M3meHgiqsPblxtjVrTjXlkJDA=="/>
-        </item>
-        <item>
-            <title>0.1.47</title>
-            <pubDate>Mon, 20 Apr 2026 00:13:36 +0000</pubDate>
-            <sparkle:version>67</sparkle:version>
-            <sparkle:shortVersionString>0.1.47</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v0.1.47/Thanos.Browser.0.1.47.zip" length="5030909" type="application/octet-stream" sparkle:edSignature="AlG2zQPDivoFl4hd/fVte/yaEsR2WkXYv2vxu0Cb/7Kd3A6M23p0QYnMa1UvnDSYx633khClXC0HC25r1Y8bCg=="/>
         </item>
     </channel>
 </rss>
