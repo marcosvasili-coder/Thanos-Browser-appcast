@@ -8,6 +8,14 @@
         <!-- Run scripts/sparkle/publish_release.sh after each signed build to append items here. -->
         <item>
             <title>1.0.0</title>
+            <pubDate>Wed, 22 Apr 2026 20:28:17 +0000</pubDate>
+            <sparkle:version>202</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v1.0.0/Thanos.Browser.1.0.0.zip" length="5311273" type="application/octet-stream" sparkle:edSignature="bjPThYMRyJABU/rvyY3D9tqLinSKsIVn6zlF5NpVMoWRU3plf6Q94+z2BMc4Nx5gGPXYZFdqtlzKDpIhRvJ9Bg=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Wed, 22 Apr 2026 19:55:21 +0000</pubDate>
             <sparkle:version>201</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
@@ -21,14 +29,6 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v1.0.0/Thanos.Browser.1.0.0.zip" length="5307733" type="application/octet-stream" sparkle:edSignature="hKQuOEwt5qOXGjgw62nSvduKoQJ42kHQY8YF+FpIjAibk/gKNgFw+LiuCjNDHyzLv+kZPfAkvxnL1vG+KDeLAA=="/>
-        </item>
-        <item>
-            <title>1.0.2</title>
-            <pubDate>Wed, 22 Apr 2026 01:05:58 +0000</pubDate>
-            <sparkle:version>109</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v1.0.2/Thanos.Browser.1.0.2.zip" length="5321716" type="application/octet-stream" sparkle:edSignature="smMSGBnwAnTDuXqiQjDZF1uy57Bj0ivTy/cWsp12pDNjfWuZKPoxF3JAzxig8b7YfX5HqgC7Soel2AQetNVqCA=="/>
         </item>
     </channel>
 </rss>
