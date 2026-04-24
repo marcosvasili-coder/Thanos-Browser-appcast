@@ -8,6 +8,14 @@
         <!-- Run scripts/sparkle/publish_release.sh after each signed build to append items here. -->
         <item>
             <title>1.0.0</title>
+            <pubDate>Fri, 24 Apr 2026 11:47:31 +0000</pubDate>
+            <sparkle:version>210</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v1.0.0/Thanos.Browser.1.0.0.210.zip" length="5247432" type="application/octet-stream" sparkle:edSignature="2+bLjjfFm9hSfauPjonrEzEi8EblabJ5M3FqO9F+zrZ/fZz/4vilvVw2GceNRvtqaeCOpi/oP8nhEazL/R+4CQ=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Fri, 24 Apr 2026 11:37:44 +0000</pubDate>
             <sparkle:version>209</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
