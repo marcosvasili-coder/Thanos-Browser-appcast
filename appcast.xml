@@ -14,21 +14,5 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v1.0.0/Thanos.Browser.1.0.0.zip" length="5247378" type="application/octet-stream" sparkle:edSignature="ghCmxjxZtPv2nay7MhnGMAFy2qGLAPOhLFfIRqyFTh1OLx6/WCf0+mt3L6HVXk2asXTwsQS9CG8VJQNoo9ddAQ=="/>
         </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Thu, 23 Apr 2026 23:54:35 +0000</pubDate>
-            <sparkle:version>207</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v1.0.0/Thanos.Browser.1.0.0.zip" length="5276222" type="application/octet-stream" sparkle:edSignature="39WM3r1qbntKZHuzKiBlJepxJstHppgEQuLRzH2ZM1Gd8E+8ovB17KMa23iDJ347lDZ9KyxTBkA6wTT1QLc7Dw=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Thu, 23 Apr 2026 14:19:35 +0000</pubDate>
-            <sparkle:version>206</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/marcosvasili-coder/Thanos-Browser-appcast/releases/download/v1.0.0/Thanos.Browser.1.0.0.zip" length="5325445" type="application/octet-stream" sparkle:edSignature="c1S0oi9GgMI3GSXWldHexHaoxJPEhjDmFaPei6fNW0HnX1IqJ5x4EslfQn+KWAI8gjEN0sWuwbD3d+9Z77jkCQ=="/>
-        </item>
     </channel>
 </rss>
