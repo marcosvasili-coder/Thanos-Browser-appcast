@@ -5,7 +5,7 @@
         <link>https://github.com/marcosvasili-coder/Thanos-Browser</link>
         <description>Release history</description>
         <language>en</language>
-        <!-- Run scripts/sparkle/publish_release.sh after each signed build to append items here. -->
+        <!-- Newest <item> first. sparkle:version = shipped CFBundleVersion (Config/SharedVersion.xcconfig CURRENT_PROJECT_VERSION at ship). sparkle:shortVersionString = MARKETING_VERSION. Do not edit past items (EdDSA). Manual snippet: scripts/sparkle/publish_release.sh; CI: Release macOS workflow. -->
         <item>
             <title>1.0.0</title>
             <pubDate>Mon, 27 Apr 2026 09:34:35 +0000</pubDate>
